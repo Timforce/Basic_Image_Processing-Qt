@@ -1,0 +1,9 @@
+*.o
+*.jpg
+*.png
+*.bmp
+*.user
+build/
+ui_interface.h
+moc_interface.cpp
+Basic_image_processing
