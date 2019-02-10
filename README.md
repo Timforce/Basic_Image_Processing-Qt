@@ -1,5 +1,10 @@
 # Basic Image Processing - Qt
 This is a basic linux GUI written with [Qt][qt-link] that do some basic image processing task. \
+
+<p align="center">
+<img src="../assets/preview.gif">
+<p>
+
 At current state it contains following functionalities:
 1. Loading and saving .jpg .png .bmp image files.
 2. Image inversion.
